@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: rhllh # Website name
 baseurl: 'https://rhllh.netlify.app/' # Website URL
-copyright: '# © rhllh, 2022'
+#copyright: '# © rhllh, 2022'
 
 ############################
 ## LANGUAGE
