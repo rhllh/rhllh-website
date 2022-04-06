@@ -1,5 +1,5 @@
 ---
-bio: "rhllh"
+bio: "Recording my thoughts"
 education:
   courses:
   - course: BSc in Physics
@@ -9,8 +9,6 @@ email: ""
 highlight_name: true
 interests:
 - Cats
-organizations:
-- name: NUS
 role: MSc student in Statistics
 social:
 - icon: envelope
@@ -25,4 +23,4 @@ superuser: true
 title: rhllh
 ---
 
-I am an incoming Masters student in Statistics at the National University of Singapore. This personal website will primarily be a blog; a space to record my thoughts in the next few years as I embark on a new journey academically, and career-wise.
+I am an incoming Masters student in Statistics in Singapore. This personal website will primarily be a blog; a space to record my thoughts in the next few years as I embark on a new journey academically, and career-wise.
