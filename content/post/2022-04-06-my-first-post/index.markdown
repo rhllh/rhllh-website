@@ -16,3 +16,7 @@ image:
   preview_only: no
 projects: []
 ---
+
+Hello! This is my first post. It's taken me over an hour to set up this website and start writing this post, so let's hope it publishes successfully and I have a working blog.
+
+The lack of spellcheck is going to be a slight problem, though.
