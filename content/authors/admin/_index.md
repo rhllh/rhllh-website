@@ -9,7 +9,6 @@ email: ""
 highlight_name: true
 interests:
 - Cats
-role: MSc student in Statistics
 social:
 - display:
     header: true
@@ -20,4 +19,4 @@ superuser: true
 title: rhllh
 ---
 
-I am an incoming Masters student in Statistics in Singapore.  This personal website will primarily be a blog; a space to record my thoughts in the next few years as I embark on a new journey academically, and career-wise.
+This is a space to record my thoughts as I begin my Masters in Statistics.
