@@ -14,7 +14,7 @@ social:
     header: true
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/rhllh
 superuser: true
 title: rhllh
 ---
