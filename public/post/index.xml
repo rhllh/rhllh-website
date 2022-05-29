@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | rhllh</title>
+    <link>https://rhllh.netlify.app/post/</link>
+      <atom:link href="https://rhllh.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rhllh.netlify.app/media/icon_hub9330dd953564898acbec2abde11a73b_23040_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://rhllh.netlify.app/post/</link>
+    </image>
+    
+    <item>
+      <title>Adjusting</title>
+      <link>https://rhllh.netlify.app/post/adjusting/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rhllh.netlify.app/post/adjusting/</guid>
+      <description>&lt;p&gt;Work has begun, so I&amp;rsquo;ve just been gathering myself and my thoughts recently. I didn&amp;rsquo;t mean for this &amp;ldquo;break&amp;rdquo; to have lasted 10 months, and it&amp;rsquo;s going to take some effort to return to the right mindset for what I&amp;rsquo;m about to put myself through.&lt;/p&gt;
+&lt;p&gt;For now, Git has been kicking my butt. It makes sense, but it slips away from me so easily. Java is a new and daunting-looking book that I&amp;rsquo;ll to have to dive into as well. You can do this!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://rhllh.netlify.app/post/my-first-post/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://rhllh.netlify.app/post/my-first-post/</guid>
+      <description>&lt;p&gt;Hello! This is my first post. It&amp;rsquo;s taken me over an hour to set up this website and start writing this post, so let&amp;rsquo;s hope it publishes successfully and I have a working blog.&lt;/p&gt;
+&lt;p&gt;The lack of spellcheck is going to be a slight problem, though.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
